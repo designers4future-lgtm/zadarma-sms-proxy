@@ -1,28 +1,4 @@
 {
   "name": "zadarma-proxy",
-  "version": "1.0.0",
-  "description": "Proxy para enviar SMS con Zadarma",
-  "main": "api/send-sms.js"
+  "version": "1.0.0"
 }
-```
-
-4. Haz clic en **"Commit new file"**
-
----
-
-## 🚀 PASO 4: Desplegar en Vercel (3 minutos)
-
-1. **Ve a Vercel**: https://vercel.com/dashboard
-2. Haz clic en **"Add New..."** → **"Project"**
-3. En "Import Git Repository", busca tu repositorio `zadarma-sms-proxy`
-4. Haz clic en **"Import"**
-5. **NO cambies nada** de la configuración
-6. Haz clic en **"Deploy"**
-7. **Espera 30-60 segundos** mientras despliega...
-8. 🎉 ¡Verás "Congratulations"!
-
-### ⚠️ IMPORTANTE: Copia tu URL
-
-Verás algo como:
-```
-https://zadarma-sms-proxy-tu-usuario.vercel.app
